@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :246: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :251: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="1">Bookmarks Bar</H3>
 <DL><p>
@@ -248,6 +248,13 @@
       <DT><A HREF="https://github.com/geerlingguy/ansible-for-devops?tab=readme-ov-file" TAGS="" ID="103">geerlingguy/ansible-for-devops: Ansible for DevOps examples.</A>
       <DT><A HREF="https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#run" TAGS="" ID="104">Kubectl Reference Docs</A>
     </DL><p>
+  </DL><p>
+  <DT><H3 ID="247">AI</H3>
+  <DL><p>
+    <DT><A HREF="https://www.notta.ai/en" TAGS="" ID="248">Transcribe Audio to Text | Notta</A>
+    <DT><A HREF="https://www.mymap.ai/" TAGS="" ID="249">Mapping Ideas That Change the World</A>
+    <DT><A HREF="https://logodiffusion.com/" TAGS="" ID="250">Create Logos in Seconds With Generative A.I | Logo Diffusion</A>
+    <DT><A HREF="https://gamma.app/?lng=en" TAGS="" ID="251">Gamma App: Generate AI Presentations, Webpages & Docs</A>
   </DL><p>
   <DT><A HREF="https://chat.openai.com/" TAGS="" ID="4"></A>
   <DT><A HREF="https://medium.com/" TAGS="" ID="5"></A>

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :261: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <folder id="3">
+    <title>_</title>
+    <folder id="14">
+      <title>Movies</title>
+      <bookmark href="https://mov2day.to/home" id="34">
+        <title>Home - Mov2day | Watch Movies Online, Free Movie Streaming</title>
+      </bookmark>
+      <bookmark href="https://fboxz.to/home" id="35">
+        <title>Home - FBOX | Watch Free Movies Online</title>
+      </bookmark>
+      <bookmark href="https://flixflare.to/home" id="36">
+        <title>Home - FlixFlare | Free Watch Movies Online, Free Movie Streaming</title>
+      </bookmark>
+      <bookmark href="https://moviepire.net/" id="37">
+        <title>Moviepire</title>
+      </bookmark>
+    </folder>
+    <folder id="15">
+      <title>DS&amp;AL&amp;DP</title>
+      <bookmark href="https://algorithm-visualizer.org/" id="38">
+        <title>Algorithm Visualizer</title>
+      </bookmark>
+      <bookmark href="https://github.com/trekhleb/javascript-algorithms" id="39">
+        <title>trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</title>
+      </bookmark>
+      <bookmark href="https://java-design-patterns.com/" id="40">
+        <title>Java Design Patterns | Java Design Patterns</title>
+      </bookmark>
+    </folder>
+    <folder id="16">
+      <title>Github</title>
+      <bookmark href="https://github.com/EbookFoundation/free-programming-books" id="41">
+        <title>EbookFoundation/free-programming-books: Freely available programming books</title>
+      </bookmark>
+      <bookmark href="https://github.com/iptv-org/iptv" id="42">
+        <title>iptv-org/iptv: Collection of publicly available IPTV channels from all over the world</title>
+      </bookmark>
+      <bookmark href="https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351" id="43">
+        <title>20 Amazing GitHub Repositories Every Developer Should Follow | by Md Kamaruzzaman | Nov, 2021 | Towards Data Science</title>
+      </bookmark>
+      <bookmark href="https://github.com/f/awesome-chatgpt-prompts" id="44">
+        <title>GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.</title>
+      </bookmark>
+      <bookmark href="https://github.com/dnkmmr69420/nix-installer-scripts" id="45">
+        <title>GitHub - dnkmmr69420/nix-installer-scripts: Various scripts to install the nix package manager. Also has installers for selinux systems and silverblue too.</title>
+      </bookmark>
+      <bookmark href="https://github.com/Roshanpaudel111/Arch-Hyprland" id="46">
+        <title>GitHub - Roshanpaudel111/Arch-Hyprland: Arch linux hyprland setup</title>
+      </bookmark>
+      <bookmark href="https://github.com/sindresorhus/awesome" id="47">
+        <title>GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics</title>
+      </bookmark>
+      <bookmark href="https://github.com/orgs/RestCheatSheet/repositories" id="48">
+        <title>REST Cheat Sheets</title>
+      </bookmark>
+      <bookmark href="https://github.com/practical-tutorials/project-based-learning" id="49">
+        <title>practical-tutorials/project-based-learning: Curated list of project-based tutorials</title>
+      </bookmark>
+      <bookmark href="https://github.com/snooppr/snoop" id="50">
+        <title>snooppr/snoop: Snoop — инструмент разведки на основе открытых данных (OSINT world)</title>
+      </bookmark>
+      <bookmark href="https://github.com/shivaya-dav/DogeRat" id="177">
+        <title>shivaya-dav/DogeRat: A multifunctional Telegram based Android RAT without port forwarding.</title>
+      </bookmark>
+      <bookmark href="https://github.com/donnemartin/system-design-primer" id="178">
+        <title>GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</title>
+      </bookmark>
+      <bookmark href="https://github.com/public-apis/public-apis#development" id="179">
+        <title>public-apis/public-apis: A collective list of free APIs</title>
+      </bookmark>
+      <bookmark href="https://github.com/codecrafters-io/build-your-own-x#build-your-own-bittorrent-client" id="180">
+        <title>codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.</title>
+      </bookmark>
+      <bookmark href="https://github.com/freeCodeCamp/freeCodeCamp" id="181">
+        <title>freeCodeCamp/freeCodeCamp: freeCodeCamp.org&apos;s open-source codebase and curriculum. Learn to code for free.</title>
+      </bookmark>
+    </folder>
+    <folder id="17">
+      <title>Dev</title>
+      <bookmark href="https://www.svgrepo.com/" id="51">
+        <title>SVG Repo</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/training/digital/?cta=tctopbanner&amp;sc_channel=sm&amp;sc_campaign=Support&amp;sc_publisher=TWITTER&amp;sc_country=global&amp;sc_geo=GLOBAL&amp;sc_outcome=AWS%20Support&amp;sc_content=Support&amp;trk=Support&amp;linkId=231179383" id="52">
+        <title>Digital Training | AWS</title>
+      </bookmark>
+      <bookmark href="https://roadmap.sh/" id="53">
+        <title>Roadmaps</title>
+      </bookmark>
+      <bookmark href="https://hoppscotch.io/" id="54">
+        <title>Hoppscotch</title>
+      </bookmark>
+      <bookmark href="https://www.phind.com/" id="55">
+        <title>Phind</title>
+      </bookmark>
+      <bookmark href="https://colorhunt.co/" id="56">
+        <title>Color Palettes for Designers and Artists - Color Hunt</title>
+      </bookmark>
+      <bookmark href="https://collabnix.github.io/kubelabs/" id="57">
+        <title>Get Started with Kubernetes Ultimate Hands-on Labs and Tutorials | kubelabs</title>
+      </bookmark>
+      <bookmark href="https://reactsvgicons.com/" id="58">
+        <title>React SVG Icons</title>
+      </bookmark>
+      <bookmark href="https://mega.nz/folder/fWpWnTaB#s7Wo1-WzlLTcROcB0HXL0w" id="59">
+        <title>Academind</title>
+      </bookmark>
+      <bookmark href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" id="60">
+        <title>A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks</title>
+      </bookmark>
+      <bookmark href="https://appbrewery.github.io/flexboxfroggy/" id="182">
+        <title>Flexbox Froggy - A game for learning CSS flexbox</title>
+      </bookmark>
+      <bookmark href="https://css-tricks.com/snippets/css/complete-guide-grid/" id="183">
+        <title>A Complete Guide to CSS Grid | CSS-Tricks - CSS-Tricks</title>
+      </bookmark>
+      <bookmark href="https://morioh.com/a/7481649df034/css-flexbox-everything-you-need-to-know-to-build-flexible-layouts" id="184">
+        <title>CSS Flexbox: Everything You Need to Know to Build Flexible Layouts</title>
+      </bookmark>
+      <bookmark href="https://www.frontendmentor.io/home" id="185">
+        <title>Frontend Mentor | Front-end coding challenges using a real-life workflow</title>
+      </bookmark>
+      <bookmark href="https://playcode.io/" id="186">
+        <title>Javascript Playground (Sandbox, Repl)</title>
+      </bookmark>
+      <bookmark href="https://gist.github.com/RitRa/5bb35b46f35752f93014ce7c8dc09020" id="187">
+        <title>MongoDB Practice</title>
+      </bookmark>
+      <bookmark href="https://morioh.com/a/88190490720d/12-react-projects-to-boost-your-skills-with-source-code" id="188">
+        <title>12+ React Projects to Boost Your Skills (with Source Code)</title>
+      </bookmark>
+      <bookmark href="https://www.uidesigndaily.com/" id="189">
+        <title>UI Design Daily | Open Source UI Resources</title>
+      </bookmark>
+      <bookmark href="https://raybo.org/slides_bootstrap5/?d=02_04&amp;#/1" id="190">
+        <title>raybo.org/slides_bootstrap5/?d=02_04&amp;#/1</title>
+      </bookmark>
+      <bookmark href="https://raybo.org/slides_bootstrap5/#/" id="191">
+        <title>RayVeal Slides</title>
+      </bookmark>
+      <bookmark href="https://github.com/iluwatar/java-design-patterns" id="237">
+        <title>iluwatar/java-design-patterns: Design patterns implemented in Java</title>
+      </bookmark>
+    </folder>
+    <folder id="18">
+      <title>Stage</title>
+      <bookmark href="https://www.marocannonces.com/mon-compte/" id="61">
+        <title>Mon compte | marocannonces.com</title>
+      </bookmark>
+      <bookmark href="https://ma.indeed.com/?from=gnav-jobseeker-profile--profile-one-frontend" id="62">
+        <title>Job Search | Indeed</title>
+      </bookmark>
+      <bookmark href="https://www.allkeysgenerator.com/" id="63">
+        <title>Custom Keys Generator</title>
+      </bookmark>
+      <bookmark href="https://careers.oracle.com/jobs/#en/sites/jobsearch/" id="64">
+        <title>Oracle Careers</title>
+      </bookmark>
+      <bookmark href="https://app.flowcv.com/dashboard" id="65">
+        <title>Dashboard – FlowCV</title>
+      </bookmark>
+    </folder>
+    <folder id="19">
+      <title>Learning</title>
+      <folder id="66">
+        <title>ReactJS</title>
+        <bookmark href="https://epic-react-exercises.vercel.app/" id="113">
+          <title>Mithi&apos;s Epic React Exercises</title>
+        </bookmark>
+        <bookmark href="https://coderfiles.dev/blog/reactjs-coding-exercises/" id="114">
+          <title>9 Simple (But Important) React JS Coding Exercises You Need To Do As A Beginner ― Coder Files</title>
+        </bookmark>
+        <bookmark href="https://contactmentor.com/react-js-practice-exercises-solution/?expand_article=1" id="115">
+          <title>10 React JS Practice Exercises with solution – Contact Mentor</title>
+        </bookmark>
+        <bookmark href="https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/virtual-dom" id="116">
+          <title>Learn React | Codecademy</title>
+        </bookmark>
+        <bookmark href="https://www.freecodecamp.org/news/how-to-build-forms-in-react/" id="117">
+          <title>How to Build Forms in React</title>
+        </bookmark>
+        <bookmark href="https://fireship.io/courses/react/basics-react/" id="118">
+          <title>React in 100 Seconds</title>
+        </bookmark>
+      </folder>
+      <folder id="67">
+        <title>Prepa_Master</title>
+        <bookmark href="https://waytolearnx.com/2019/06/questions-reponses-sur-la-fragmentation-ip.html" id="119">
+          <title>Questions/réponses sur la fragmentation IP</title>
+        </bookmark>
+        <bookmark href="https://www.plixer.com/blog/network-layers-explained/" id="120">
+          <title>Network Layers Explained: OSI &amp; TCP/IP Models [with examples]</title>
+        </bookmark>
+        <bookmark href="https://stic-os.webs.com/QUIZZ%20OS_Total.pdf" id="121">
+          <title>QUIZZ OS_Total.pdf</title>
+        </bookmark>
+        <bookmark href="https://professional-techology.blogspot.com/2013/02/test-reseaux-informatiques-qcm-reseau.html?m=1" id="122">
+          <title>Test Réseaux Informatiques - QCM Réseau - Quizz Réseau</title>
+        </bookmark>
+        <bookmark href="https://astuces-informatique.com/quiz-architecture-des-ordinateurs/" id="123">
+          <title>QCM Architecture des ordinateurs avec corrections - Trucs et astuces informatique</title>
+        </bookmark>
+        <bookmark href="https://www.alsacreations.com/quiz/resultat/15" id="124">
+          <title>Résultats du Quiz PHP difficile (bis) - Alsacreations</title>
+        </bookmark>
+        <bookmark href="https://www.alsacreations.com/quiz/" id="125">
+          <title>Quiz pour tester ses connaissances web - Alsacreations</title>
+        </bookmark>
+        <bookmark href="https://www.oudev.net/informatique/qcm/qcm-en-html-et-css-partie-4/" id="126">
+          <title>QCM En Html et Css – Partie 4</title>
+        </bookmark>
+        <bookmark href="https://bpesquet.gitbooks.io/guide-developpeur-php/content/partie1/acces-bd.html" id="127">
+          <title>Accéder à une base de données · (Draft) Guide du développeur PHP</title>
+        </bookmark>
+        <bookmark href="https://www.atelierphp.net/quiz/quiz_post_1.php?choice=quiz_05" id="128">
+          <title>Atelier PHP - QCM de la leçon n°5 - Tableaux</title>
+        </bookmark>
+        <bookmark href="https://quizizz.com/admin/quiz/60b8e1a2e168f5001b7cad09/javascript" id="211">
+          <title>JavasCript | 154 jouer | Quizizz</title>
+        </bookmark>
+        <bookmark href="https://prive.iutenligne.net/11jsG5Kljum6LIB5/informatique/reseaux/lohier/reseaux_fondamentaux/2-Modelisation/TD2_Modelisation_C.html#:~:text=7.,en%20r%C3%A9f%C3%A9rence%20au%20mod%C3%A8le%20OSI." id="212">
+          <title>Fondamentaux des réseaux</title>
+        </bookmark>
+        <bookmark href="https://www.irif.fr/~carton/Enseignement/InterfacesGraphiques/Cours/Swing/layouts.html" id="213">
+          <title>Gestionnaires de disposition</title>
+        </bookmark>
+        <bookmark href="https://www.atelierphp.net/quiz/quiz_post_2.php" id="214">
+          <title>Atelier PHP - Solution du QCM</title>
+        </bookmark>
+        <bookmark href="https://graphacademy.neo4j.com/" id="215">
+          <title>Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy</title>
+        </bookmark>
+        <bookmark href="https://i.am.ai/roadmap/#data-science-roadmap" id="216">
+          <title>AI Expert Roadmap</title>
+        </bookmark>
+      </folder>
+      <folder id="68">
+        <title>Python</title>
+        <bookmark href="https://replit.com/@appbrewery?tab=repls" id="129">
+          <title>App Brewery - Replit</title>
+        </bookmark>
+        <bookmark href="https://pythontutor.com/" id="130">
+          <title>Python Tutor</title>
+        </bookmark>
+      </folder>
+      <folder id="69">
+        <title>JavaScript</title>
+        <bookmark href="https://github.com/PhilopaterHany/JavaScript-Bootcamp" id="131">
+          <title>PhilopaterHany/JavaScript-Bootcamp: Complete Documentation for JavaScript Course from Osama Elzero</title>
+        </bookmark>
+        <bookmark href="https://github.com/sfwnisme/Elzero-JavaScript-Bootcamp" id="132">
+          <title>sfwnisme/Elzero-JavaScript-Bootcamp: Traking The Entire JavaScritpt Bootcamp ( Lessons - Challenges - Assignments ) By Elzero Web School</title>
+        </bookmark>
+      </folder>
+      <folder id="70">
+        <title>Network</title>
+        <bookmark href="https://www.freecodecamp.org/news/learn-wireshark-computer-networking/" id="133">
+          <title>Learn Wireshark – Computer Networking Tutorial</title>
+        </bookmark>
+        <bookmark href="https://www.netacad.com/courses/all-courses?utm_medium=event&amp;utm_source=netacad.com&amp;utm_campaign=writ&amp;utm_content=getstartedbutton&amp;utm_team=field_global" id="134">
+          <title>Cisco Certificate</title>
+        </bookmark>
+      </folder>
+      <folder id="71">
+        <title>Rust</title>
+        <bookmark href="https://doc.rust-lang.org/book/" id="135">
+          <title>The Rust Programming Language - The Rust Programming Language</title>
+        </bookmark>
+        <bookmark href="https://www.rust-lang.org/learn" id="136">
+          <title>Learn Rust</title>
+        </bookmark>
+        <bookmark href="https://doc.rust-lang.org/book/title-page.html" id="137">
+          <title>The Ru The Rust Programming Language</title>
+        </bookmark>
+        <bookmark href="https://doc.rust-lang.org/book/ch01-01-installation.html" id="138">
+          <title>The Rust Programming Language</title>
+        </bookmark>
+      </folder>
+      <folder id="72">
+        <title>freeAPI</title>
+        <bookmark href="https://swapi.dev/" id="139">
+          <title>SWAPI - The Star Wars API</title>
+        </bookmark>
+        <bookmark href="https://console.firebase.google.com/project/learning-reactjs-1783c/database/learning-reactjs-1783c-default-rtdb/data" id="140">
+          <title>learning-reactjs - Realtime Database - Firebase console</title>
+        </bookmark>
+        <bookmark href="https://rapidapi.com/hub" id="141">
+          <title>API Hub - Free Public &amp; Open Rest APIs | Rapid</title>
+        </bookmark>
+        <bookmark href="https://opentdb.com/" id="142">
+          <title>Open Trivia DB: Free to use, user-contributed trivia question database.</title>
+        </bookmark>
+        <bookmark href="https://www.canva.com/design/DAFuvh0JEZo/WVotO6ik1HqLirXhllxsMA/edit" id="143">
+          <title>Ajouter un sous-titre - A4</title>
+        </bookmark>
+      </folder>
+      <folder id="73">
+        <title>Courses</title>
+        <bookmark href="https://mega.nz/folder/xVBinJoC#IQ0QzdSLL-lb7VVTY7XbSQ" id="144">
+          <title>Mosh</title>
+        </bookmark>
+        <bookmark href="https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA" id="145">
+          <title>800GbCourses</title>
+        </bookmark>
+        <bookmark href="https://mega.nz/folder/8wo0xSZb#AYLsRPmB-4svkVH1qTvbIg/folder/8t5THQ7A" id="146">
+          <title>ILETS</title>
+        </bookmark>
+        <bookmark href="https://www.webdevvisuals.com/visuals" id="147">
+          <title>WebDevVisuals</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://jami3a.com/cours/informatique" id="74">
+        <title>Jami3a</title>
+      </bookmark>
+      <bookmark href="https://bit.ly/3Dn1RbX" id="75">
+        <title>LinkedIn Learning</title>
+      </bookmark>
+      <bookmark href="https://learn.365datascience.com/courses/" id="192">
+        <title>365 Data Science</title>
+      </bookmark>
+      <bookmark href="https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/" id="193">
+        <title>REST API Design Best Practices Handbook</title>
+      </bookmark>
+    </folder>
+    <folder id="20">
+      <title>ML</title>
+      <bookmark href="https://student.deepracer.com/home" id="76">
+        <title>DeepRacer Student League</title>
+      </bookmark>
+      <bookmark href="https://www.realworldml.xyz/blog" id="77">
+        <title>Blog</title>
+      </bookmark>
+      <bookmark href="https://archive.ics.uci.edu/" id="78">
+        <title>Home - UCI Machine Learning Repository</title>
+      </bookmark>
+      <bookmark href="https://www.superdatascience.com/pages/machine-learning" id="79">
+        <title>Machine Learning A-Z: Download Codes and Datasets - Page - SuperDataScience | Machine Learning | AI | Data Science Career | Analytics | Success</title>
+      </bookmark>
+      <bookmark href="https://github.com/Coder-World04/Complete-Scikit-learn-with-projects-" id="80">
+        <title>Coder-World04/Complete-Scikit-learn-with-projects-: This repository contains everything you need to become proficient in Scikit learn</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d" id="81">
+        <title>Machine Learning A-Z (Codes and Datasets) - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://numpy.org/learn/" id="82">
+        <title>NumPy - Learn</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/folders/1O8vabaxga3ITjCWfwD79Xnyf8RavYuyk" id="83">
+        <title>ML - Templates</title>
+      </bookmark>
+      <bookmark href="https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/" id="84">
+        <title>Definitive Guide to Hierarchical Clustering with Python and Scikit-Learn</title>
+      </bookmark>
+      <bookmark href="https://github.com/omarsar/nlp_overview" id="85">
+        <title>omarsar/nlp_overview: Overview of Modern Deep Learning Techniques Applied to Natural Language Processing</title>
+      </bookmark>
+      <bookmark href="https://lightning.ai/studios?utm_source=akshay" id="194">
+        <title>⚡Lightning AI - Studios</title>
+      </bookmark>
+      <bookmark href="https://github.com/ritchieng/the-incredible-pytorch" id="195">
+        <title>ritchieng/the-incredible-pytorch: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.</title>
+      </bookmark>
+      <bookmark href="https://github.com/nivu/ai_all_resources?tab=readme-ov-file" id="196">
+        <title>nivu/ai_all_resources: A curated list of Best Artificial Intelligence Resources</title>
+      </bookmark>
+      <bookmark href="https://scikit-learn.org/stable/modules/classes.html" id="197">
+        <title>Scikit-learn 1.4.1 documentation</title>
+      </bookmark>
+      <bookmark href="https://github.com/josephmisiti/awesome-machine-learning?tab=readme-ov-file#java-general-purpose-machine-learning" id="198">
+        <title>GitHub - josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.</title>
+      </bookmark>
+    </folder>
+    <folder id="21">
+      <title>TorrentSites</title>
+      <bookmark href="https://torrentgalaxy.to/" id="86">
+        <title>TGx:Home</title>
+      </bookmark>
+      <bookmark href="https://1337x.to/home/" id="87">
+        <title>1337x</title>
+      </bookmark>
+    </folder>
+    <folder id="22">
+      <title>Other</title>
+      <folder id="88">
+        <title>Tools</title>
+        <bookmark href="https://pastebin.com/" id="148">
+          <title>Pastebin.com - #1 paste tool since 2002!</title>
+        </bookmark>
+        <bookmark href="https://www.online-toolz.com/tools/text-encryption-decryption.php" id="149">
+          <title>Encrypt &amp; Decrypt Text Online - Online Toolz</title>
+        </bookmark>
+        <bookmark href="https://www.mrchecker.net/card-checker/ccn2/" id="150">
+          <title>CC Checker - Free credit card checker Mrchecker.net</title>
+        </bookmark>
+        <bookmark href="https://www.virustotal.com/gui/home/upload" id="151">
+          <title>VirusTotal</title>
+        </bookmark>
+        <bookmark href="https://smailpro.com/" id="152">
+          <title>Temp mail</title>
+        </bookmark>
+        <bookmark href="https://htmlcheatsheet.com/css/" id="153">
+          <title>CSS Cheat Sheet - Interactive, not a PDF | HTMLCheatSheet.com</title>
+        </bookmark>
+        <bookmark href="https://devhints.io/bash" id="154">
+          <title>Bash scripting cheatsheet</title>
+        </bookmark>
+        <bookmark href="https://keywordsheeter.com/" id="155">
+          <title>Free Keyword Tool - Keyword Sheeter - No Sign Up</title>
+        </bookmark>
+        <bookmark href="https://console.apify.com/" id="156">
+          <title>Home</title>
+        </bookmark>
+        <bookmark href="https://colab.research.google.com/drive/1gyHOtXNAJEMiWFYGjz5vHiZ_wGyGdC2_" id="157">
+          <title>Copy of Transfer_Files_From_MEGA_to_Google_Drive_.ipynb - Colaboratory</title>
+        </bookmark>
+        <bookmark href="https://yts.jamsbase.com/" id="217">
+          <title>YIFY Movies</title>
+        </bookmark>
+        <bookmark href="https://www.file.io/" id="218">
+          <title>file.io - Super simple file sharing</title>
+        </bookmark>
+        <bookmark href="https://rdrop.link/" id="219">
+          <title>rDrop</title>
+        </bookmark>
+        <bookmark href="https://docs.fedoraproject.org/en-US/quick-docs/installing-java/" id="220">
+          <title>Installing Java :: Fedora Docs</title>
+        </bookmark>
+        <bookmark href="https://gmail-osint.activetk.jp/" id="221">
+          <title>Gmail OSINT - ActiveTK.jp</title>
+        </bookmark>
+        <bookmark href="https://forum.manjaro.org/t/cant-change-qt-qpa-platformtheme-to-anything-but-qt5ct/27963/13" id="222">
+          <title>Can&apos;t change QT_QPA_PLATFORMTHEME to anything but qt5ct - Support / Xfce - Manjaro Linux Forum</title>
+        </bookmark>
+        <bookmark href="https://avabucks.it/" id="223">
+          <title>BoxCoding</title>
+        </bookmark>
+        <bookmark href="https://portable-linux-apps.github.io/apps.html" id="224">
+          <title>APPLICATIONS | Portable Linux Apps</title>
+        </bookmark>
+        <bookmark href="https://mmbesar.github.io/" id="225">
+          <title>مدونة محمد بيصار - Mohammed Besar Blog</title>
+        </bookmark>
+        <bookmark href="https://search.nixos.org/packages" id="226">
+          <title>NixOS Search - Packages</title>
+        </bookmark>
+        <bookmark href="https://www.arabp2p.net/index.php" id="246">
+          <title>التراكر المفتوح مصدرك للتورنت العربي ArabP2P</title>
+        </bookmark>
+        <bookmark href="https://learn.microsoft.com/en-us/visualstudio/subscriptions/vs-linkedin-learning" id="247">
+          <title>LinkedIn Learning benefit in Visual Studio subscriptions | Microsoft Learn</title>
+        </bookmark>
+      </folder>
+      <folder id="89">
+        <title>Etude</title>
+        <bookmark href="https://replit.com/@darkseid10" id="158">
+          <title>darkseid10 (DarkSeid) - Replit</title>
+        </bookmark>
+        <bookmark href="http://mathinfo.go.yn.fr/" id="159">
+          <title>FST-Cours</title>
+        </bookmark>
+        <bookmark href="https://grep.app/" id="160">
+          <title>grep.app | code search</title>
+        </bookmark>
+        <bookmark href="https://www.py4e.com/lessons" id="161">
+          <title>PY4E - Python for Everybody</title>
+        </bookmark>
+        <bookmark href="https://academy.hackthebox.eu/dashboard" id="162">
+          <title>HTB Academy</title>
+        </bookmark>
+        <bookmark href="https://proetudes.blogspot.com/" id="163">
+          <title>Proetudes</title>
+        </bookmark>
+        <bookmark href="https://www.programiz.com/python-programming/online-compiler/" id="164">
+          <title>Online Python Compiler (Interpreter)</title>
+        </bookmark>
+        <bookmark href="https://www.busuu.com/dashboard#/profile/104726470/progress" id="165">
+          <title>Busuu</title>
+        </bookmark>
+        <bookmark href="https://sites.google.com/a/fste.umi.ac.ma/brahim-aksasse/enseignement" id="166">
+          <title>Enseignement - brahim.aksasse</title>
+        </bookmark>
+        <bookmark href="https://gigacourse.com/?1" id="167">
+          <title>GigaCourse - Download Premium Udemy Courses For Free</title>
+        </bookmark>
+        <bookmark href="https://exercism.org/journey" id="227">
+          <title>Exercism</title>
+        </bookmark>
+        <bookmark href="https://getfreecourses.co/" id="228">
+          <title>Udemy FREE Download - GetFreeCourses.Co</title>
+        </bookmark>
+        <bookmark href="https://mabourse.enssup.gov.ma/" id="229">
+          <title>maBourse</title>
+        </bookmark>
+        <bookmark href="https://academiaraqmya.gov.ma/" id="230">
+          <title>Academia Raqmya</title>
+        </bookmark>
+        <bookmark href="https://zlibrary.to/home" id="231">
+          <title>Z Library - Search &amp; Download Free Books NOW With ZLibrary</title>
+        </bookmark>
+        <bookmark href="https://talib24.com/wp-content/uploads/2019/09/Exercices-corrige%CC%81s-de-Syste%CC%80me-D%E2%80%99exploitation-2.pdf" id="232">
+          <title>Exercices-corrigés-de-Système-D’exploitation-2.pdf</title>
+        </bookmark>
+        <bookmark href="https://www.reverso.net/orthographe/correcteur-francais/" id="233">
+          <title>Correcteur d&apos;orthographe et de grammaire</title>
+        </bookmark>
+        <bookmark href="https://www.pdfdrive.com/" id="234">
+          <title>PDF Drive</title>
+        </bookmark>
+        <bookmark href="https://downscribd.com/" id="235">
+          <title>DOWNSCRIBD.COM - Free Scribd downloader</title>
+        </bookmark>
+        <bookmark href="https://httpstatusdogs.com/" id="236">
+          <title>HTTP Status Dogs</title>
+        </bookmark>
+        <bookmark href="https://www.openread.academy/" id="248">
+          <title>OpenRead - Let&apos;s reshape research</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://console.aiven.io/account/a47ce42acf29/project/chaqchaq9-8cc4/services" id="90">
+        <title>Services | Aiven</title>
+      </bookmark>
+      <bookmark href="https://www.perplexity.ai/threads" id="91">
+        <title>Perplexity AI</title>
+      </bookmark>
+      <bookmark href="https://github.com/AmrSayed74/Summaries" id="92">
+        <title>HTML &amp; CSS &amp; JS-Part1 Summary</title>
+      </bookmark>
+      <bookmark href="https://github.com/Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript" id="93">
+        <title>CheatSheets-HTML-CSS-JavaScript</title>
+      </bookmark>
+      <bookmark href="https://github.com/jwasham/coding-interview-university" id="94">
+        <title>coding-interview-university</title>
+      </bookmark>
+      <bookmark href="https://osintframework.com/" id="95">
+        <title>OSINT Framework</title>
+      </bookmark>
+      <bookmark href="https://patorjk.com/software/taag/#p=display&amp;f=Graffiti&amp;t=Type%20Something%20" id="96">
+        <title>Text to ASCII Art Generator</title>
+      </bookmark>
+      <bookmark href="https://github.com/tonikelope/megabasterd" id="97">
+        <title>tonikelope/megabasterd: Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.</title>
+      </bookmark>
+      <bookmark href="https://www.sporcle.com/" id="199">
+        <title>Sporcle - A World of Quizzes</title>
+      </bookmark>
+      <bookmark href="https://mega.nz/folder/B4A0WDZA#zAFQcBE8Fx_Nk5UXW89olg" id="200">
+        <title>MEGA</title>
+      </bookmark>
+      <bookmark href="https://mdxjs.com/" id="201">
+        <title>Markdown for the component era | MDX</title>
+      </bookmark>
+      <bookmark href="https://www.allkeyshop.com/blog/" id="202">
+        <title>Compare Prices and Buy Game Keys, Steam Keys, CD Keys !</title>
+      </bookmark>
+      <bookmark href="https://gitlab.com/Barbaross/Nebula" id="203">
+        <title>Cullen Ross / Nebula · GitLab</title>
+      </bookmark>
+      <bookmark href="https://console.neon.tech/app/projects" id="204">
+        <title>Neon console</title>
+      </bookmark>
+      <bookmark href="https://ashpex.eu.org/" id="205">
+        <title>~/ashpex</title>
+      </bookmark>
+      <bookmark href="https://downloadlynet.ir/" id="206">
+        <title>Downloadly – Free Software Download</title>
+      </bookmark>
+      <bookmark href="https://arch.d3sox.me/installation/" id="238">
+        <title>Introduction | Arch Linux Guide</title>
+      </bookmark>
+      <bookmark href="https://refactoring.guru/" id="239">
+        <title>Refactoring and Design Patterns</title>
+      </bookmark>
+      <bookmark href="https://github.com/FavioVazquez/ds-cheatsheets" id="240">
+        <title>FavioVazquez/ds-cheatsheets: List of Data Science Cheatsheets to rule the world</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@tutorialgateway/featured" id="241">
+        <title>(20) Tutorial Gateway - YouTube</title>
+      </bookmark>
+      <bookmark href="https://fmhy.net/" id="242">
+        <title>Welcome • freemediaheckyeah</title>
+      </bookmark>
+      <bookmark href="https://telegra.ph/Guide-for-flashing-Stock-ROM-on-Nothing-Phone-2-04-22" id="243">
+        <title>Guide to Flashing Stock ROM on Nothing Phone (1) &amp; (2) via Fastboot – Telegraph</title>
+      </bookmark>
+      <bookmark href="https://sites.google.com/view/udemycouponcodes/udemy-coupon-codes" id="244">
+        <title>Udemy Coupon Codes</title>
+      </bookmark>
+      <bookmark href="https://saborpcmath.com/" id="245">
+        <title>Accueil</title>
+      </bookmark>
+      <bookmark href="https://www.marchespublics.gov.ma/pmmp/" id="251">
+        <title>Portail Marocain des Marchés Publics</title>
+      </bookmark>
+    </folder>
+    <folder id="23">
+      <title>BigData</title>
+      <bookmark href="https://liliasfaxi.wixsite.com/liliasfaxi/big-data" id="98">
+        <title>Big Data</title>
+      </bookmark>
+      <bookmark href="https://insatunisia.github.io/TP-BigData/" id="99">
+        <title>TP Big Data</title>
+      </bookmark>
+      <bookmark href="https://github.com/liliasfaxi" id="100">
+        <title>liliasfaxi (Lilia Sfaxi)</title>
+      </bookmark>
+      <bookmark href="https://rockthejvm.com/" id="101">
+        <title>Scala Courses - Learn Scala, Akka, Apache Spark, Flink and More | Rock</title>
+      </bookmark>
+      <bookmark href="https://github.com/oumaima-kboubi?tab=repositories" id="102">
+        <title>oumaima-kboubi (oumaima-kboubi) / Repositories</title>
+      </bookmark>
+      <bookmark href="https://fxjollois.github.io/donnees/" id="103">
+        <title>Données | donnees</title>
+      </bookmark>
+    </folder>
+    <folder id="249">
+      <title>DevOps</title>
+      <bookmark href="https://github.com/joseadanof/awesome-cloudnative-trainings" id="252">
+        <title>joseadanof/awesome-cloudnative-trainings: Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software</title>
+      </bookmark>
+      <bookmark href="https://github.com/binhnguyennus/awesome-scalability" id="253">
+        <title>binhnguyennus/awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</title>
+      </bookmark>
+      <bookmark href="https://github.com/dastergon/awesome-sre" id="254">
+        <title>dastergon/awesome-sre: A curated list of Site Reliability and Production Engineering resources.</title>
+      </bookmark>
+      <bookmark href="https://github.com/geerlingguy/ansible-for-devops?tab=readme-ov-file" id="255">
+        <title>geerlingguy/ansible-for-devops: Ansible for DevOps examples.</title>
+      </bookmark>
+      <bookmark href="https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#run" id="256">
+        <title>Kubectl Reference Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.ansible.com/ansible/latest/reference_appendices/playbooks_keywords.html" id="257">
+        <title>Playbook Keywords — Ansible Community Documentation</title>
+      </bookmark>
+    </folder>
+    <folder id="250">
+      <title>AI</title>
+      <bookmark href="https://www.notta.ai/en" id="258">
+        <title>Transcribe Audio to Text | Notta</title>
+      </bookmark>
+      <bookmark href="https://www.mymap.ai/" id="259">
+        <title>Mapping Ideas That Change the World</title>
+      </bookmark>
+      <bookmark href="https://logodiffusion.com/" id="260">
+        <title>Create Logos in Seconds With Generative A.I | Logo Diffusion</title>
+      </bookmark>
+      <bookmark href="https://gamma.app/?lng=en" id="261">
+        <title>Gamma App: Generate AI Presentations, Webpages &amp; Docs</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://chat.openai.com/" id="4">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://medium.com/" id="5">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://github.com/" id="6">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://mail.proton.me/u/0/inbox" id="7">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://lookmovie2.to/" id="8">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://translate.google.com/?sl=ar&amp;tl=fr&amp;op=translate" id="9">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://huggingface.co/" id="10">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://twitter.com/home" id="11">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="12">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://localhost:9443/#!/2/docker/dashboard" id="104">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://app.daily.dev/" id="105">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://webwhiteboard.com/" id="106">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://nothing.community/tags" id="107">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://keep.google.com/u/0/" id="108">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://mylearn.oracle.com/ou/story/117252-mesrsimtnra" id="109">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://aistudio.google.com/app/prompts/16afmSlIf0AAVZKppkIrQ7c1iC7UXicLX" id="110">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/spreadsheets/u/0/" id="111">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://web.whatsapp.com/" id="112">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://colab.research.google.com/" id="207">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1" id="208">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.linkedin.com/learning-login/go/rivlib" id="209">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://killercoda.com/" id="210">
+    <title></title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <folder id="13">
+    <title>NFT</title>
+    <bookmark href="https://nftcalendar.io/" id="24">
+      <title>NFT Drops Today – NFT Calendar</title>
+    </bookmark>
+    <bookmark href="https://www.upcomingnftlist.com/" id="25">
+      <title>Upcoming Nft List - NFT Drop - NFT Calendar</title>
+    </bookmark>
+    <bookmark href="https://www.nftdropscalendar.com/" id="26">
+      <title>NFT Drops Calendar | #1 NFT Calendar</title>
+    </bookmark>
+    <bookmark href="https://nftgo.io/nft-drops" id="27">
+      <title>Best upcoming NFT drops and NFT data analytics</title>
+    </bookmark>
+    <bookmark href="https://raritysniper.com/nft-drops-calendar?blockchain=solana" id="28">
+      <title>NFT Drops Calendar | Rarity Sniper</title>
+    </bookmark>
+    <bookmark href="https://moon.ly/" id="29">
+      <title>Moonly</title>
+    </bookmark>
+    <bookmark href="https://kasmi.com/solana/" id="30">
+      <title>Youness KASMI - Solana Candy Machine</title>
+    </bookmark>
+    <bookmark href="https://rarity.tools/" id="31">
+      <title>rarity.tools</title>
+    </bookmark>
+    <bookmark href="https://tokensniffer.com/" id="32">
+      <title>Token Sniffer</title>
+    </bookmark>
+    <bookmark href="https://mercury.blocksmithlabs.io/calendar" id="33">
+      <title>Mercury | Blocksmith Labs</title>
+    </bookmark>
+    <bookmark href="https://nftsolana.io/" id="168">
+      <title>Upcoming Events – NFT SOLANA CALENDAR</title>
+    </bookmark>
+    <bookmark href="https://solanart.io/" id="169">
+      <title>Solanart - Discover, collect and trade NFTs</title>
+    </bookmark>
+    <bookmark href="https://howrare.is/" id="170">
+      <title>Find out how rare your Solana NFTs are - HowRare.is</title>
+    </bookmark>
+    <bookmark href="https://hyperspace.xyz/leaderboard" id="171">
+      <title>Project Stats | Hyperspace</title>
+    </bookmark>
+    <bookmark href="https://www.solsniper.xyz/" id="172">
+      <title>Sol Sniper</title>
+    </bookmark>
+    <bookmark href="https://analytics.verytech.io/trending" id="173">
+      <title>VERY Analytics | Light up Future Whales</title>
+    </bookmark>
+    <bookmark href="https://www.solguard.io/" id="174">
+      <title>SolGuard</title>
+    </bookmark>
+    <bookmark href="https://coralcube.io/" id="175">
+      <title>CoralCube - NFT Marketplace and Aggregator</title>
+    </bookmark>
+    <bookmark href="https://solscan.io/nfts" id="176">
+      <title>Solscan</title>
+    </bookmark>
+  </folder>
+</folder>
+</xbel>

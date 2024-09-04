@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :504: for Floccus bookmark sync browser extension -->
+<!--- highestId :510: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -23,6 +23,9 @@
       </bookmark>
       <bookmark href="https://moviepire.net/" id="500">
         <title>Moviepire</title>
+      </bookmark>
+      <bookmark href="https://www.braflix.ru/" id="505">
+        <title>Braflix - Watch TV Shows Online, Watch Movies Online</title>
       </bookmark>
     </folder>
     <folder id="274">
@@ -600,6 +603,9 @@
       <bookmark href="https://www.marchespublics.gov.ma/pmmp/" id="496">
         <title>Portail Marocain des Marchés Publics</title>
       </bookmark>
+      <bookmark href="https://voiser.net/en" id="506">
+        <title>Text to Speech (Voiceover) - Voiser</title>
+      </bookmark>
     </folder>
     <folder id="282">
       <title>BigData</title>
@@ -641,6 +647,9 @@
       </bookmark>
       <bookmark href="https://docs.ansible.com/ansible/latest/reference_appendices/playbooks_keywords.html" id="359">
         <title>Playbook Keywords — Ansible Community Documentation</title>
+      </bookmark>
+      <bookmark href="https://github.com/kelseyhightower/kubernetes-the-hard-way" id="507">
+        <title>kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way. No scripts.</title>
       </bookmark>
     </folder>
     <folder id="495">
@@ -725,6 +734,9 @@
   <bookmark href="https://killercoda.com/" id="210">
     <title></title>
   </bookmark>
+  <bookmark href="https://my.nextdns.io/cfe656/setup" id="508">
+    <title></title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
@@ -788,5 +800,11 @@
       <title>Solscan</title>
     </bookmark>
   </folder>
+</folder>
+<folder id="509">
+  <title>Mobile bookmarks</title>
+  <bookmark href="https://eyowhite.com/resources/?wbg_title_s=SQL+PROJECTS+ON+SOCCER+DATABASES&amp;wbg_isbn_s=&amp;wbg_category_s=&amp;wbg_author_s=" id="510">
+    <title>Optimise Business with Databases | Eyowhite Resources</title>
+  </bookmark>
 </folder>
 </xbel>

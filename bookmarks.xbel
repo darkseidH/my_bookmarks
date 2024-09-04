@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Bookmarks Bar</title>
-  <bookmark href="https://www.linkedin.com/learning/?u=121350530" id="493">
-    <title></title>
-  </bookmark>
   <folder id="262">
     <title>_</title>
     <folder id="494">
@@ -735,6 +732,9 @@
     <title></title>
   </bookmark>
   <bookmark href="https://my.nextdns.io/cfe656/setup" id="508">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://www.linkedin.com/learning/?u=121350530" id="493">
     <title></title>
   </bookmark>
 </folder>

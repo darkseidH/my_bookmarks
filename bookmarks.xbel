@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :515: for Floccus bookmark sync browser extension -->
+<!--- highestId :516: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -748,6 +748,9 @@
   </bookmark>
   <bookmark href="https://careers.oracle.com/jobs/#en/sites/jobsearch/my-profile" id="515">
     <title></title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-gb/training/courses/pl-300t00#course-syllabus" id="516">
+    <title>Course PL-300T00-A: Microsoft Power BI Data Analyst - Training | Microsoft Learn</title>
   </bookmark>
 </folder>
 <folder id="2">

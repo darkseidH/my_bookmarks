@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :518: for Floccus bookmark sync browser extension -->
+<!--- highestId :539: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -167,6 +167,27 @@
       </bookmark>
       <bookmark href="https://app.flowcv.com/dashboard" id="315">
         <title>Dashboard – FlowCV</title>
+      </bookmark>
+      <bookmark href="https://hps.csod.com/ux/ats/careersite/1/home?c=hps&amp;country=ma&amp;city=casablanca" id="519">
+        <title>Career site</title>
+      </bookmark>
+      <bookmark href="https://careers.dxc.com/global/en/c/software-applications-jobs" id="520">
+        <title>Software &amp; Applications jobs | Software &amp; Applications jobs at DXC Technology</title>
+      </bookmark>
+      <bookmark href="https://www.stagiaires.ma/offres-de-stages-et-premier-emploi-maroc/?pages=8" id="521">
+        <title>Annonces Offres de Stages et Premier emploi | Stagiaires.ma</title>
+      </bookmark>
+      <bookmark href="https://socgen.taleo.net/careersection/sgcareers/mysubmissions.ftl?lang=fr_FR" id="522">
+        <title>Job offers in banking, finance, insurance - Societe Generale Careers</title>
+      </bookmark>
+      <bookmark href="https://leytonmaroc.teamtailor.com/jobs?department=IT+Services&amp;split_view=true&amp;query=" id="523">
+        <title>Offres d&apos;emploi actuelles - Leyton Maroc</title>
+      </bookmark>
+      <bookmark href="https://www.wetech.ma/offre-emploi/asatechno-consulting-stagiaire-pre-embauche-recetteur-fonctionnel-h-f-931#" id="524">
+        <title>Offre d&apos;emploi ASATECHNO CONSULTING - Stagiaire pré-embauche Recetteur fonctionnel...</title>
+      </bookmark>
+      <bookmark href="https://recrutement.cdg.ma/Agirhcv/ihmg/Mycv/Login/GRecrut_Offres.aspx" id="525">
+        <title>AGiRH-CVThèque</title>
       </bookmark>
     </folder>
     <folder id="278">
@@ -336,6 +357,12 @@
       <bookmark href="https://examregistration.github.com/overview" id="517">
         <title>GitHub Certifications</title>
       </bookmark>
+      <bookmark href="https://www.inficourses.com/" id="526">
+        <title>InfiCourses | Download Infinity Of Free Courses</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/search?q=how+to+reset+debian+server&amp;oq=how+to+reset+debian+ser&amp;gs_lcrp=EgZjaHJvbWUqCAgBEAAYFhgeMgYIABBFGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIGCAkQLhhA0gEJMTYwNDVqMGoxqAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8" id="527">
+        <title>how to reset debian server - Google Search</title>
+      </bookmark>
     </folder>
     <folder id="279">
       <title>ML</title>
@@ -383,6 +410,12 @@
       </bookmark>
       <bookmark href="https://github.com/josephmisiti/awesome-machine-learning?tab=readme-ov-file#java-general-purpose-machine-learning" id="446">
         <title>GitHub - josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.</title>
+      </bookmark>
+      <bookmark href="https://ml-resources.vercel.app/" id="528">
+        <title>ML Resources</title>
+      </bookmark>
+      <bookmark href="https://data.gov.ma/fr" id="529">
+        <title>ACCUEIL | Portail de l&apos;Open Data au Maroc</title>
       </bookmark>
     </folder>
     <folder id="280">
@@ -612,6 +645,18 @@
       <bookmark href="https://phosphoricons.com/" id="514">
         <title>Phosphor Icons</title>
       </bookmark>
+      <bookmark href="https://msftmd.replit.app/" id="530">
+        <title>msftmd - Microsoft MarkItDown Converter</title>
+      </bookmark>
+      <bookmark href="https://www.aiengineerpack.com/?success=1" id="531">
+        <title>AI Engineer Pack by ElevenLabs</title>
+      </bookmark>
+      <bookmark href="https://techinterviews.hashnode.dev/" id="532">
+        <title>Tech Interviews</title>
+      </bookmark>
+      <bookmark href="https://elemental-accordion-08e.notion.site/Minimalist-Freelance-OS-ece9a47f0e2642b2a9a5cece144d1581" id="533">
+        <title>Minimalist Freelance OS</title>
+      </bookmark>
     </folder>
     <folder id="282">
       <title>BigData</title>
@@ -758,6 +803,18 @@
   <bookmark href="https://education.github.com/pack" id="518">
     <title></title>
   </bookmark>
+  <bookmark href="https://www.linkedin.com/" id="534">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="535">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://annas-archive.org/" id="536">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://kimi.ai/" id="537">
+    <title></title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
@@ -826,6 +883,12 @@
   <title>Mobile bookmarks</title>
   <bookmark href="https://eyowhite.com/resources/?wbg_title_s=SQL+PROJECTS+ON+SOCCER+DATABASES&amp;wbg_isbn_s=&amp;wbg_category_s=&amp;wbg_author_s=" id="510">
     <title>Optimise Business with Databases | Eyowhite Resources</title>
+  </bookmark>
+  <bookmark href="https://www.asd.ma/ar/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84" id="538">
+    <title>تسجيل الدخول | AIDES SOCIALES DIRECTES</title>
+  </bookmark>
+  <bookmark href="https://hatifie.com/product/motorola-moto-g22-4gb-128gb/" id="539">
+    <title>Motorola Moto g22 (4Gb/128Gb) avec accessoires | Hatifi Phone</title>
   </bookmark>
 </folder>
 </xbel>
